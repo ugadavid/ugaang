@@ -121,7 +121,7 @@ Although their career was short, the Small Faces left a lasting legacy, influenc
 
 
 
-### Back home
+## Back home
 
 **Description :** Projet central pour organiser et suivre tous mes autres projets.
 [Lien vers le dépôt](https://github.com/ugadavid/project-manager)
